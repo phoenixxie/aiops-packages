@@ -1,3 +1,3 @@
-# dl-go-sdk
+# dl
 
-dummy
+see releases
