@@ -6,7 +6,7 @@ debootstrap_sha256=4d90ff82306a1dc4d39f739e08629995ffed388892f08635f6d7c2d6528b7
 
 packages_url=https://github.com/phoenixxie/dl/releases/download/deploy-packages/deploy-packages.tar.gz
 packages_file=deploy-packages.tar.gz
-packages_sha256=5f4dc4ddaf335234cc11731c2b3a6e5affd2e704996a3d4292ec9190bc12c110
+packages_sha256=22f217cdca8997e6d10b6e6ad95153032682949bfadb1c709b5a83ac4e16f273
 
 debs_url=https://github.com/phoenixxie/dl/releases/download/deploy-debs/deploy-debs.tar.gz
 debs_file=deploy-debs.tar.gz
